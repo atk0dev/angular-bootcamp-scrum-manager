@@ -86,3 +86,4 @@ Is proxied to
 `PUT https://api.mongolab.com/api/1/databases/scrum/collections/projects/572fccb1f8c2e76df19c652e {"name": "Real Project"}` 
 
 Please read more details regarding [MongoLab Data API](http://docs.mlab.com/data-api/) here. In fact this is classic RESTful API.
+
